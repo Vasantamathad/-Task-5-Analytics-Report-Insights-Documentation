@@ -1,0 +1,27 @@
+RETAIL SALES ANALYSIS USING MICROSOFT EXCEL
+Project Report
+
+1. Introduction
+Retail businesses collect sales information to understand which products perform well and which regions contribute the most revenue. This project presents a simple retail sales analysis using Microsoft Excel. The dashboard and summary charts are based on the figures visible in the screenshots supplied for this task.
+
+2. Project Description
+The project organizes summarized revenue information into readable tables and charts. The product analysis compares revenue from Chair, Desk, Headphones, Keyboard, Laptop, Monitor, Mouse, and Phone. The region analysis compares East, North, South, and West. These summaries make it easier to identify high-performing products and regions without manually comparing every value. The workbook is designed as a beginner-friendly demonstration of spreadsheet reporting and data visualization. PivotTables and PivotCharts are part of the demonstrated workflow, as shown in the screenshots. The dashboard can be used to communicate the main findings in a clear visual format.
+
+3. Objectives
+- Summarize revenue by product.
+- Compare revenue across regions.
+- Highlight the highest-revenue product and region.
+- Present key figures using charts.
+- Practice basic business analysis and reporting in Excel.
+
+4. Tools and Techniques
+Microsoft Excel is the primary tool. The screenshots show PivotTables, PivotCharts, chart titles, and data labels. These features help summarize values and make comparisons easier to read.
+
+5. Findings
+The total revenue shown is 450,500. Laptop is the highest-revenue product at 160,000, followed by Phone at 135,000. The South region has the highest regional revenue at 144,000. East contributes 94,000, North 133,500, and West 79,000. The product figures shown are Chair 30,000; Desk 24,000; Headphones 20,000; Keyboard 13,000; Laptop 160,000; Monitor 60,000; Mouse 8,500; and Phone 135,000.
+
+6. Conclusion
+This project demonstrates how Excel summaries and charts can help present sales information in a straightforward way. The dashboard allows a viewer to compare product revenue and regional revenue quickly. The results may support discussion about product performance and regional differences.
+
+7. Limitation
+The original transaction-level data file was not provided for this package. Therefore, this report describes only the summarized figures visible in the screenshots and does not claim additional analysis beyond those values.
